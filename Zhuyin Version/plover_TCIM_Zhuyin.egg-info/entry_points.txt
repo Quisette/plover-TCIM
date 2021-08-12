@@ -1,0 +1,3 @@
+[plover.system]
+Traditioal Chinese(Zhuyin) = TCIM_Zhuyin
+

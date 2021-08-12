@@ -97,8 +97,8 @@ KEYMAPS = {
     }
 }
 
-DICTIONARIES_ROOT = 'asset:TC_steno:Zhuyin Version/dictionaries/'
+DICTIONARIES_ROOT = 'asset:TC_steno:Zhuyin Version/dictionaries'
 DEFAULT_DICTIONARIES = (
-	'TCIMDict_1.0 alpha.json'
+	"TCIMDict_1.0 alpha.json"
    
 )

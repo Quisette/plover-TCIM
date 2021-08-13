@@ -1,6 +1,6 @@
 # Plover 中文速錄輸入法 Plugin
 
-此Plugin為使用於速錄機及速錄鍵盤之輸入法，須配合開源速錄軟體 [Plover](https://github.com/openstenoproject/plover)使用。
+此Plugin為使用於速錄機及速錄鍵盤之輸入法，須配合開源速錄軟體 [Plover](https://github.com/openstenoproject/plover) 使用。
 
 ## 安裝方法
 

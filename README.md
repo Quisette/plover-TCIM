@@ -14,6 +14,8 @@
 
 `plover -s plover_plugins install -e ./ `
 
+安裝完成後，請重新開啟 Plover 並安裝字典。
+
 ## 理論說明
 
 詳見理論說明（待建置）

@@ -18,7 +18,7 @@
 
 ## 理論說明
 
-詳見理論說明（待建置）
+詳見[理論說明](https://github.com/Quisette/TC_steno/blob/master/Theory%20Introduction.md)
 
 ## 開發中功能
 

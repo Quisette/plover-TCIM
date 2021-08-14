@@ -27,7 +27,8 @@
 
 依照上方敘述，可作簡略圖如下：
 
-
+![Initials Graph.jpeg](https://github.com/Quisette/TC_steno/blob/master/Pictures/Initials%20Graph.jpeg?raw=true)
 
 ### 韻符
 
+![Finals Graph.jpeg](https://github.com/Quisette/TC_steno/blob/master/Pictures/Finals%20Graph.jpeg?raw=true)

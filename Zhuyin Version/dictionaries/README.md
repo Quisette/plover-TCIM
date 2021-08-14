@@ -6,6 +6,8 @@
 
 `TCIMDict_revised.json`：教育部重編國語辭典修訂本（有些許錯誤，建議先使用簡編字典）
 
+`McBopomofo_Dict.json`：自[小麥注音輸入法](https://github.com/openvanilla/McBopomofo)擷取出來的詞庫
+
 
 公眾授權頁：http://resources.publicense.moe.edu.tw/dict_reviseddict_download.html
 
@@ -21,8 +23,9 @@
 	總　　　編　　　輯：李殿魁
 	
 	副　總　編　輯　：曾榮汾
-	
-	
+
+
+​	
 	發　　行　　人：杜正勝
 	
 	發　　行　　所：教育部

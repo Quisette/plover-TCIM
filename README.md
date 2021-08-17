@@ -22,10 +22,12 @@
 
 ## 開發中功能
 
-1.選字功能（編號/倉頡選字）=> 須由另一選字 Plugin 處理（待開發）
+~~1.選字功能（編號/倉頡選字）=> 須由另一選字 Plugin 處理（待開發）~~
 
 2.快速字典匯入 ods file
 
 3.拼音字根式字典及輸入法
 
 4.聲符簡碼表
+
+## [Changelog](https://github.com/Quisette/TC_steno/blob/master/Changelog.md)

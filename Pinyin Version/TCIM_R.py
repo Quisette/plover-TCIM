@@ -35,31 +35,31 @@ KEYMAPS = {
     'keyboard': {
         '#': ('1', '2', '3', '4', '5', '6', '7', '8', '9', '0'),
 
-        'A-': 'q',
-        'O-': 'a',
-        'N-': 'w',
+        'N-': 'q',
+        'G-': 'a',
+        'A-': 'w',
         'E-': 's',
         'I-': 'e',
-        'U-': 'd',
-        'G-': 'r',
-        'W-': 'f',
-        'D-': 't',
-        'Z-': 'g',
-        'B-': 'c',
+        'W-': 'd',
+        'M-': 'r',
+        'F-': 'f',
+        'B-': 't',
+        'P-': 'g',
+        'Z-': 'c',
         'X-': 'v',
 
         '-X': 'n',
-        '-B': 'm',
-        '-D': 'y',
-        '-Z': 'h',
-        '-G': 'u',
-        '-W': 'j',
+        '-Z': 'm',
+        '-B': 'y',
+        '-P': 'h',
+        '-M': 'u',
+        '-F': 'j',
         '-I': 'i',
-        '-U': 'k',
-        '-N': 'o',
+        '-W': 'k',
+        '-A': 'o',
         '-E': 'l',
-        '-A': 'p',
-        '-O': ';',
+        '-N': 'p',
+        '-G': ';',
 
         'arpeggiate': 'space',
         'no-op': ('B'),
@@ -97,7 +97,10 @@ KEYMAPS = {
     }
 }
 
-DICTIONARIES_ROOT = None
+DICTIONARIES_ROOT = './dictionaries/'
 DEFAULT_DICTIONARIES = (
+	'Combined_index.json'
+	'Combined_conflict.json'
+	'Combined_main.json'
 
 )

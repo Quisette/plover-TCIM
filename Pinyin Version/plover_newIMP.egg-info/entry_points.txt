@@ -1,3 +1,0 @@
-[plover.system]
-Chinese NewIMP = yaweiP
-

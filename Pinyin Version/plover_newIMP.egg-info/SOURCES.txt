@@ -1,0 +1,10 @@
+setup.cfg
+setup.py
+yaweiP.py
+plover_newIMP.egg-info/PKG-INFO
+plover_newIMP.egg-info/SOURCES.txt
+plover_newIMP.egg-info/dependency_links.txt
+plover_newIMP.egg-info/entry_points.txt
+plover_newIMP.egg-info/requires.txt
+plover_newIMP.egg-info/top_level.txt
+plover_newIMP.egg-info/zip-safe

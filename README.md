@@ -2,6 +2,8 @@
 
 此Plugin為使用於速錄機及速錄鍵盤之輸入法，須配合開源速錄軟體 [Plover](https://github.com/openstenoproject/plover) 使用。
 
+## [Changelog](https://github.com/Quisette/TC_steno/blob/master/Changelog.md)
+
 ## 安裝方法
 
 法ㄧ：使用 Plover Plugin Manager 下載（尚未開放）
@@ -30,4 +32,4 @@
 
 4. 聲符簡碼表
 
-## [Changelog](https://github.com/Quisette/TC_steno/blob/master/Changelog.md)
+

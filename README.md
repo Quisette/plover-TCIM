@@ -1,4 +1,4 @@
-# Plover 中文速錄輸入法 Plugin
+# 千鳥詞注： Plover 中文速錄輸入法
 
 此Plugin為使用於速錄機及速錄鍵盤之輸入法，須配合開源速錄軟體 [Plover](https://github.com/openstenoproject/plover) 使用。
 
@@ -10,7 +10,7 @@
 
 `git clone https://github.com/Quisette/TC_steno.git `
 
-`cd your-repo-path/` 
+`cd your-repo-path/Pinyin Version/` 
 
 `plover -s plover_plugins install -e ./ `
 
@@ -22,12 +22,12 @@
 
 ## 開發中功能
 
-~~1.選字功能（編號/倉頡選字）=> 須由另一選字 Plugin 處理（待開發）~~
+1. ~~選字功能（編號/倉頡選字）=> 須由另一選字 Plugin 處理（待開發）~~
 
-2.快速字典匯入 ods file
+2. 額外的詞典管理器(可快速生成index, conflict, main 三個檔案)
 
-3.拼音字根式字典及輸入法
+3. ~~拼音字根式字典及輸入法~~=>已為主要開發系統
 
-4.聲符簡碼表
+4. 聲符簡碼表
 
 ## [Changelog](https://github.com/Quisette/TC_steno/blob/master/Changelog.md)

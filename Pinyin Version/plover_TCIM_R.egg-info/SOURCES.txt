@@ -1,0 +1,11 @@
+README.md
+TCIM_R.py
+setup.cfg
+setup.py
+plover_TCIM_R.egg-info/PKG-INFO
+plover_TCIM_R.egg-info/SOURCES.txt
+plover_TCIM_R.egg-info/dependency_links.txt
+plover_TCIM_R.egg-info/entry_points.txt
+plover_TCIM_R.egg-info/requires.txt
+plover_TCIM_R.egg-info/top_level.txt
+plover_TCIM_R.egg-info/zip-safe

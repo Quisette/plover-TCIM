@@ -1,0 +1,3 @@
+[plover.system]
+Chinese Traditional = TCIM_R
+

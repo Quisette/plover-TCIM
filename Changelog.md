@@ -14,11 +14,15 @@
   However, some of the dictionary index entries is unable to use, which involves the plover system's root-reading methods, and it seems to be unfixable solely by the plugin.
   Nevertheless. these word-selecting issues can be used by implementing other word-selecting indexes such as Cangjie roots, which has been planned to be developed. 
 
-## Pre-release 0.1.1 | 2021.8.24
+## Pre-release 0.1.1 | 2021.8.25
 
-* ### The word-selection plugin has developed
+* ### The word-selection plugin has developed (Thanks Kaoffie for [plugin](https://github.com/Kaoffie/plover_next_stroke))
 
-* ### The hinderance of number has been fixed
+  * Select manual
+
+* ### A little update to numbers enter
+
+  * numbers in inverse 
 
 
 # 版本更新

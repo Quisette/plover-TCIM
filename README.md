@@ -12,11 +12,9 @@
 
 `git clone https://github.com/Quisette/TC_steno.git `
 
-`cd your-repo-path/Pinyin Version/` 
-
 `plover -s plover_plugins install -e ./ `
 
-安裝完成後，請重新開啟 Plover 並安裝字典。
+安裝完成後，請至[plover_next_stroke](https://github.com/Kaoffie/plover_next_stroke)安裝此Plugin（選字目錄）、重新開啟 Plover 並安裝字典。
 
 ## 理論說明
 
@@ -24,12 +22,9 @@
 
 ## 開發中功能
 
-1. ~~選字功能（編號/倉頡選字）=> 須由另一選字 Plugin 處理（待開發）~~
-
-2. 額外的詞典管理器(可快速生成index, conflict, main 三個檔案)
-
+1. ~~選字功能（編號/倉頡選字）=> 須由另一選字 Plugin 處理（待開發）~~ 詳見 [plover_next_stroke](https://github.com/Kaoffie/plover_next_stroke)
+2. ~~額外的詞典管理器(可快速生成index, conflict, main 三個檔案)~~
 3. ~~拼音字根式字典及輸入法~~=>已為主要開發系統
-
 4. 聲符簡碼表
-
+5. 鍵盤指令(Enter, Del, etc.)
 

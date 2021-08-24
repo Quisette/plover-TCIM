@@ -1,4 +1,4 @@
 git pull
-git add ~/Git/TC_steno/
+git add .
 git commit
 git push

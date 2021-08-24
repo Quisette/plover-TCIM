@@ -13,7 +13,12 @@
   The numeral word selecting index has successfully developed, which can deal with up to around 20 entries by far [(in our combined dictionary)](https://github.com/Quisette/TC_steno/tree/master/Pinyin%20Version/dictionaries). 
   However, some of the dictionary index entries is unable to use, which involves the plover system's root-reading methods, and it seems to be unfixable solely by the plugin.
   Nevertheless. these word-selecting issues can be used by implementing other word-selecting indexes such as Cangjie roots, which has been planned to be developed. 
-  
+
+## Pre-release 0.1.1 | 2021.8.24
+
+* ### The word-selection plugin has developed
+
+* ### The hinderance of number has been fixed
 
 
 # 版本更新

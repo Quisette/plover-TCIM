@@ -1,5 +1,13 @@
 {
 "#E": "=ns_next_page",
 "#EG": "=ns_reload",
-"#G": "=ns_prev_page"
+"#G": "=ns_prev_page",
+"-FX": "{#Up}{^}",
+"-PX": "{#Left}{^}",
+"-X": "{#BackSpace}",
+"-XE": "{#Right}{^}",
+"-XW": "{#Down}{^}",
+"PFX": "{PLOVER:TOGGLE}",
+"X": "{#BackSpace}",
+"Z-Z": "{^~|\n^}"
 }

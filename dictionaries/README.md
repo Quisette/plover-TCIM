@@ -7,13 +7,6 @@
 `McBopomofo_*.json`：自[小麥注音輸入法](https://github.com/openvanilla/McBopomofo)擷取出來的詞庫
 
 `combined_*.json`：上方兩者合併的詞庫
-另外，每一個詞庫分別拆開為三個檔案：
-
-`*_index.json`：為重碼字選單
-
-`*_conflict.json`：為重碼字字典
-
-`*_main.json`：為所有詞之字典
 
 使用時，請依照上述(index->conflict->main)順序匯入
 
@@ -32,11 +25,9 @@
 	總　　　編　　　輯：李殿魁
 	
 	副　總　編　輯　：曾榮汾
-
-
-​	
-​	發　　行　　人：杜正勝
-​	
+	
+	發　　行　　人：杜正勝
+	
 	發　　行　　所：教育部
 	
 	地　　　　　址：臺北市中山南路5號

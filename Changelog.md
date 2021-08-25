@@ -10,19 +10,23 @@
 
 * ### Word selecting  system has developed with some bugs , but fixible by implementing other indicators
 
-  The numeral word selecting index has successfully developed, which can deal with up to around 20 entries by far [(in our combined dictionary)](https://github.com/Quisette/TC_steno/tree/master/Pinyin%20Version/dictionaries). 
+  The numeral word selecting index has successfully developed, which can deal with up to around 20 entries by far. 
   However, some of the dictionary index entries is unable to use, which involves the plover system's root-reading methods, and it seems to be unfixable solely by the plugin.
   Nevertheless. these word-selecting issues can be used by implementing other word-selecting indexes such as Cangjie roots, which has been planned to be developed. 
 
 ## Pre-release 0.1.1 | 2021.8.25
 
-* ### The word-selection plugin has developed (Thanks Kaoffie for [plugin](https://github.com/Kaoffie/plover_next_stroke))
+* ### The word-selection plugin has developed (Thanks Kaoffie for the [plugin](https://github.com/Kaoffie/plover_next_stroke))
 
-  * Select manual
+  The dictionary has altered to adapt to the plugin. Please reinstall the dictionaries to make sure it works.
 
-* ### A little update to numbers enter
+* ### Adding several functional keys 
 
-  * numbers in inverse 
+  These keys includes:
+
+  * Number keys (See Tutorial)
+  * Cumputer commands keys (backspace, return, etc. )
+  * Arrow keys 
 
 
 # 版本更新
